@@ -3,5 +3,5 @@ Desarrollo de las vistas
 1.Inicio de secion 
 2.Registro
 
-Nombre del desarrollador: israel.
-Yo elabore el inicio, inclui una libreria fontawersome
+Nombre del desarrollador: edgar.
+Yo elabore el registro, use una libreria x
