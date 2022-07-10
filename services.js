@@ -8,4 +8,4 @@ const numero=(collback,num)=>{
 
 numero((n)=>{
     console.log(n);
-},true)
+},false)
