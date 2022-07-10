@@ -5,4 +5,4 @@ Desarrollo de las vistas
 
 Nombre del desarrollador: edgar.
 Yo elabore el registro, use una libreria x
-Documentacion de la capa de service
+Documentacion de la capa de services
